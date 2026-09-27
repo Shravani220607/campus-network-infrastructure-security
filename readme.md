@@ -2,7 +2,7 @@
 
 > Enterprise-scale campus network architecture designed and implemented in Cisco Packet Tracer, featuring segmented departmental networks, centralized Layer 3 routing, dynamic route exchange, secure management, infrastructure services, and policy-driven traffic isolation.
 
-![Topology](topology/campus_topology.png)
+![Topology](topology/topology.png)
 
 ---
 
@@ -192,7 +192,7 @@ The network was extensively tested to validate functionality, security, and serv
 
 ### Network Topology
 
-![Topology](topology/campus_topology.png)
+![Topology](topology/topology.png)
 
 ### VLAN Configuration
 
@@ -220,7 +220,8 @@ The network was extensively tested to validate functionality, security, and serv
 
 ### SSH Management
 
-![SSH](screenshots/ssh.png)
+![SSH](screenshots/ssh/ssh_login.png)
+![SSH](screenshots/ssh/ssh.png)
 
 ### Port Security
 
