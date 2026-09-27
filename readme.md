@@ -204,7 +204,7 @@ The network was extensively tested to validate functionality, security, and serv
 
 ### Spanning Tree Protocol
 
-![STP](screenshots/stp.png)
+![STP](screenshots/stp/cn_root.png)
 
 ### DHCP Services
 
@@ -216,12 +216,12 @@ The network was extensively tested to validate functionality, security, and serv
 
 ### Access Control Lists
 
-![ACL](screenshots/acls.png)
+![ACL](screenshots/acl.png)
 
 ### SSH Management
 
-![SSH](screenshots/ssh/ssh_login.png)
-![SSH](screenshots/ssh/ssh.png)
+![SSH](screenshots/ssh_login.png)
+![SSH](screenshots/ssh.png)
 
 ### Port Security
 
